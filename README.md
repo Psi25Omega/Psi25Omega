@@ -1,7 +1,7 @@
 # About Me
-- 15
+- 16
 - Math Enthusiast
 - Love Python
-- Numpy, Discord.py, Flask, Manim
+- Numpy, Discord.py, Flask, Manim...Learning Django
 - Gotta love CSV
 - ~~HTML, CSS (XD)~~
